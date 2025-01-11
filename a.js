@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 	function hideClass(name) {
        var myClasses = document.querySelectorAll(name),
       i = 0,
@@ -1913,4 +1913,4 @@
     })();
 
 
-	</script>
+
